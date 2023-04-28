@@ -40,6 +40,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Harsh517-tech415/Harsh517-tech415/output/snake.svg" alt="Snake animation" />
 
 ###
